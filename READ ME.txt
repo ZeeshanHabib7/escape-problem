@@ -1,0 +1,30 @@
+Project Description:
+Our Project is Escape Problem, We Implimented this project using python 2. Basically project is work on the Logic of Edmonds–Karp Algorithm.
+Take the inputs from file in Datasets folder and determine the Maximum Flow using Edmonds–Karp Algorithm.
+
+How to Run:
+
+Step: 1
+In order to run this project smoothly without any hassle you have to use "Jet Brains Pycharm Community Addition 2018"
+
+Step: 2
+Also you must must have to install following Project interpreters:
+
+1. pip install numpy
+2. pip install scipy
+
+Step: 3
+After this Just Open Project File Named "Escape_Problem" and "edmond_krap". and Configure above mentioned interpreters.
+
+Step: 4
+
+Compile the Code :)
+
+Group Members:
+
+1. Muhammad Saqib Akther 
+   Roll Number: 15B-079-SE
+2. Muhammad Temoor UL Hassan
+   Roll Number: 15B-052-SE
+3. Zeeshan Habib
+   Roll Number: 15B-099-SE
